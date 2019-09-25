@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Attendance</string>
+
+
+
+    <!-- Strings related to Attendance -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="login_as_Guest">Login as Guest </string>
+    <string name="login_as_Folk_boy">Login as Folk boy </string>
+    <string name="name">Name:</string>
+    <string name="as_in_folk_id_card">AS IN FOLK ID CARD</string>
+    <string name="folk_id">Folk ID:</string>
+    <string name="folk_guide">Folk Guide:</string>
+    <string name="next">Next</string>
+    <string name="welcome_message">Hare Krishna \nWelcome to the event</string>
+    <string name="request_to_show_the_QR">Please MARK YOUR ATTENDANCE by using the above QR code </string>
+    <string name="generate_QR_code">Generate QR code</string>
+</resources>
